@@ -4,7 +4,7 @@ An AI based solution for guiding todays generation in choosing their future care
 <h2 align="center">Project Poster</h2>
 
 <p align="center">
-  <img src="images/poster.png" width="1536">
+  <img src="poster.png" width="1536">
 </p>
 
 ## Overview
