@@ -10,12 +10,19 @@ This project aims to help students, fresh graduates, and career changers make in
 ## Features
 
 Career prediction based on user skills and interests.
+
 Data pre-processing and handling of missing values.
+
 Multiple machine learning models for comparison:
+    
     Random Forest Classifier
+    
     XGBoost Classifier
+    
     Support Vector Machine (SVM)
+    
     K-Nearest Neighbors (KNN)
+    
     Automatic selection of the best-performing model.
 Data visualization for:
   Career role distribution
